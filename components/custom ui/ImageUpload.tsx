@@ -39,7 +39,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
                 alt="collection"
                 className="object-cover rounded-lg"
                 fill
-                sizes="(max-width: 200px) 100vw, 200px" // Thêm sizes để cải thiện hiệu suất
+                sizes="(max-width: 200px) 100vw, 200px"
               />
             </div>
           )
